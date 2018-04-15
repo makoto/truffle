@@ -8,6 +8,9 @@
     "colors": "^1.1.2",
     "debug": "^3.1.0",
     "solc": "0.4.24",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2",
+    "require-from-string": "^2.0.2",
     "truffle-config": "^1.0.4",
     "truffle-contract-sources": "^0.0.1",
     "truffle-error": "^0.0.2",
@@ -15,6 +18,7 @@
   },
   "devDependencies": {
     "mocha": "^3.5.3",
+    "tmp": "0.0.33",
     "truffle-resolver": "2.0.0"
   },
   "scripts": {
