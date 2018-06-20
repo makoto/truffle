@@ -9296,7 +9296,7 @@ solc@0.4.18:
     semver "^5.3.0"
     yargs "^4.7.1"
 
-solc@0.4.24, solc@^0.4.2, solc@^0.4.8:
+solc@0.4.24, solc@^0.4.16, solc@^0.4.2, solc@^0.4.8:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/solc/-/solc-0.4.24.tgz#354f14b269b38cbaa82a47d1ff151723502b954e"
   dependencies:
@@ -10066,14 +10066,6 @@ truffle-contract-schema@0.0.5, truffle-contract-schema@^0.0.5:
   resolved "https://registry.yarnpkg.com/truffle-contract-schema/-/truffle-contract-schema-0.0.5.tgz#5e9d20bd0bf2a27fe94310748249d484eee49961"
   dependencies:
     crypto-js "^3.1.9-1"
-
-truffle-contract-schema@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/truffle-contract-schema/-/truffle-contract-schema-2.0.0.tgz#535378c0b6a7f58011ea8d84f57771771cb45163"
-  dependencies:
-    ajv "^5.1.1"
-    crypto-js "^3.1.9-1"
-    debug "^3.1.0"
 
 truffle-contract@^1.1.6, truffle-contract@^1.1.8:
   version "1.1.11"
